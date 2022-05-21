@@ -111,6 +111,7 @@ Below gives all of valid searches for each person:
 * Jane Smith: "Jane", "Smith", "Jane Smith", "Maiden", "Jane Maiden", "Bride".
 * John Smith: "John", "Smith", "John Smith", "Groom".
 * Bob Johnson: "Bob", "Johnson", "Bob Johnson", "Best Man".
+* Olivia Brown: "Olivia", "Brown", "Olivia Brown", "Maid of Honor".
 * Jeremy Ty: "Jeremy", "Ty", "Jeremy Ty".
 * Roland Price: "Roland", "Price", "Roland Price".
 * Rebecca Price: "Rebecca", "Price", "Rebecca Price".

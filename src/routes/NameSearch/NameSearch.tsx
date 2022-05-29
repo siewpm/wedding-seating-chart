@@ -16,7 +16,7 @@ import React, {
 interface NameSearchState {
   name: string,
   initial: boolean,
-  tables: Record<string, string>,
+  tables: [string, string][],
 }
 
 type NameSearchHooks = ReactHooks<NameSearchState, 'setState' | 'searchParams' | 'setSearchParams'>;
@@ -60,7 +60,7 @@ function NameSearch() {
   const [state, setState] = useState<NameSearchState>({
     name: searchParams.get('q') ?? '',
     initial: true,
-    tables: {},
+    tables: [],
   });
   const hooks: NameSearchHooks = {
     state,
@@ -108,13 +108,12 @@ function NameSearch() {
       {state.initial ? undefined : (
         <div className="results">
           {(() => {
-            const entries = Object.entries(state.tables);
-            if (entries.length === 0) {
+            if (state.tables.length === 0) {
               return (<p className="is-size-5">No results!</p>);
             } else {
               return (
                 <div className="results flex col xs-x-center xs-y-margin-between-5">
-                  {entries.map(([name, table]) => (
+                  {state.tables.map(([name, table]) => (
                     <EscortCard
                       key={name}
                       name={name}

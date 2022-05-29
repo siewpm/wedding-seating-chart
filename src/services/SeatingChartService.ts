@@ -9,6 +9,8 @@ interface SeatingChartServiceEntry {
 type SeatingChartServiceList = SeatingChartServiceEntry[];
 
 export class SeatingChartService {
+  private static tableSearchPattern: RegExp = /^(?:(?:(.*) Table)|(?:Table (\d+)))$/i;
+
   private list: SeatingChartServiceList = [];
 
   private tags: string[] = [];
@@ -59,13 +61,24 @@ export class SeatingChartService {
     this.tags = Array.from(tagsSet);
   }
 
-  public getTable(name: string): Record<string, string> {
+  public getTable(name: string): [string, string][] {
+    const tableSearch = name.match(SeatingChartService.tableSearchPattern);
+    if (tableSearch !== null) {
+      const selectedTable = tableSearch[1] ?? tableSearch[2];
+      if (!selectedTable) {
+        return [];
+      }
+      return this.list
+        .filter(({table}) => table.localeCompare(
+          selectedTable,
+          undefined,
+          {sensitivity: 'base'},
+        ) === 0)
+        .map(({name, table}) => [name, table]);
+    }
     return this.list
       .filter(({pattern}) => pattern.test(name))
-      .reduce((obj, {name, table}) => {
-        obj[name] = table;
-        return obj;
-      }, {} as Record<string, string>);
+      .map(({name, table}) => [name, table]);
   }
 
   public getRandomTag(): string {

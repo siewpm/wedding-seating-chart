@@ -23,7 +23,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build"
+    "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
@@ -39,6 +41,8 @@
   },
   "devDependencies": {
     "eslint-config-airbnb": "^19.0.4",
-    "eslint-import-resolver-typescript": "^2.7.1"
-  }
+    "eslint-import-resolver-typescript": "^2.7.1",
+    "gh-pages": "^6.1.1"
+  },
+  "homepage": "https://barretg.github.io/wedding-seating-chart/"
 }

@@ -62,6 +62,14 @@ export class SeatingChartService {
   }
 
   public getTable(name: string): [string, string][] {
+    const trimmedSearchTerm = name.trim();
+
+    if (/^\d+$/.test(trimmedSearchTerm)) {
+      return this.list
+        .filter(({table}) => table.localeCompare(trimmedSearchTerm, undefined, {sensitivity: 'base'}) === 0)
+        .map(({name, table}) => [name, table]);
+    }
+
     const tableSearch = name.match(SeatingChartService.tableSearchPattern);
     if (tableSearch !== null) {
       const selectedTable = tableSearch[1] ?? tableSearch[2];

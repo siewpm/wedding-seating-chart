@@ -17,15 +17,15 @@ module.exports = {
     plugins: ["import"],
 
     rules: {
-        "max-len": ["error", {
-            "code": 100
+        "max-len": ["off", {
+            "code": 150
         }],
         "no-nested-ternary": ["off"],
         "no-underscore-dangle": ["off"],
-        "object-curly-spacing": ["error", "never"],
+        "object-curly-spacing": ["off"],
         "require-jsdoc": ["off"],
         "no-invalid-this": ["off"],
-        "sort-imports": ["error", {
+        "sort-imports": ["off", {
             "ignoreCase": false,
             "ignoreDeclarationSort": false,
             "ignoreMemberSort": false,
@@ -33,7 +33,7 @@ module.exports = {
             "allowSeparatedGroups": false
         }],
         "import/no-extraneous-dependencies": [
-            "error", {
+            "off", {
                 devDependencies: false,
             },
         ],

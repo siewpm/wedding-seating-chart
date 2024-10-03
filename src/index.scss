@@ -1,5 +1,19 @@
 @import 'Theme.scss';
 
+// Light theme styles
+@media (prefers-color-scheme: light) {
+    :root {
+        @include set-theme-vars(light); // NEW: Use light theme variables
+    }
+}
+
+// Dark theme styles
+@media (prefers-color-scheme: dark) {
+    :root {
+        @include set-theme-vars(dark); // NEW: Use dark theme variables
+    }
+}
+
 :root {
     font-size: 16px;
     font-family: 'Cormorant Garamond', serif;
@@ -7,7 +21,7 @@
     text-size-adjust: 100%;
     -webkit-font-smoothing: antialiased;
 
-    @include set-theme-vars(dark);
+    // @include set-theme-vars(dark);
 
     background-color: theme-color-var(base);
     color: theme-color-var(primary);

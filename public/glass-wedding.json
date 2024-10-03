@@ -87,12 +87,14 @@
             [
                 "Samuel Barton",
                 "Sam Barton",
+                "*Groomsmen",
                 "*Groomsman",
                 "*RUF"
             ],
             [
                 "Josh Kearney",
                 "Joshua Kearney",
+                "*Groomsmen",
                 "*Groomsman",
                 "*RUF",
                 "*XA"
@@ -102,6 +104,7 @@
             ],
             [
                 "Raymond Spell",
+                "*Groomsmen",
                 "*Groomsman",
                 "*Best Man",
                 "*FSM"
@@ -119,27 +122,32 @@
             ],
             [
                 "Jeremy Alpert",
+                "*Groomsmen",
                 "*Groomsman",
                 "*XA"
             ],
             [
                 "Toluwani Fasina",
                 "*Bridesmaid",
+                "*Bridesmaids",
                 "*XA"
             ],
             [
                 "Willa Tao",
                 "*Bridesmaid",
+                "*Bridesmaids",
                 "*XA"
             ],
             [
                 "Sarah Wang",
                 "*Bridesmaid",
+                "*Bridesmaids",
                 "*XA"
             ],
             [
                 "Robin Whitehead",
                 "*Bridesmaid",
+                "*Bridesmaids",
                 "*RUF",
                 "*XA"
             ]
@@ -148,22 +156,26 @@
             [
                 "Kianna Broadman",
                 "*Bridesmaid",
+                "*Bridesmaids",
                 "*RUF",
                 "*XA"
             ],
             [
                 "Julian Braxton",
+                "*Groomsmen",
                 "*Groomsman",
                 "*XA"
             ],
             [
                 "Neha Ghanta",
-                "*Bridesmaid"
+                "*Bridesmaid",
+                "*Bridesmaids"
             ],
             [
                 "Caroline Glass",
                 "*Sister",
-                "*Bridesmaid"
+                "*Bridesmaid",
+                "*Bridesmaids"
             ],
             [
                 "Esther Stecher",
@@ -177,12 +189,14 @@
             ],
             [
                 "Isaac Stecher",
+                "*Groomsmen",
                 "*Groomsman",
                 "*RUF",
                 "*Hooligan"
             ],
             [
                 "Reuben Stecher",
+                "*Groomsmen",
                 "*Groomsman",
                 "*RUF",
                 "*Hooligan"
@@ -190,11 +204,13 @@
             [
                 "Eucharist Tan",
                 "*Sister",
-                "*Bridesmaid"
+                "*Bridesmaid",
+                "*Bridesmaids"
             ],
             [
                 "Eusebes Tan",
                 "*Brother",
+                "*Groomsmen",
                 "*Groomsman"
             ],
             [

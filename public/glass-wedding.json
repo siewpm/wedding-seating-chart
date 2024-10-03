@@ -15,7 +15,8 @@
                 "*XA",
                 "*RUF",
                 "*Senior Design",
-                "*Boppell HS Marching Band"
+                "*Boppell HS Marching Band",
+                "*Wedding Party"
             ],
             [
                 "Barret Glass",
@@ -23,7 +24,8 @@
                 "*Happy Couple",
                 "*RUF",
                 "*XA",
-                "*Danger Zone"
+                "*Danger Zone",
+                "*Wedding Party"
             ]
         ],
         "1": [
@@ -39,13 +41,15 @@
                 "Ama Tan",
                 "*Grandma",
                 "*Eunice's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Keh Shiun Tan",
                 "*Father of the Bride",
                 "*Eunice's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Keh Yeong Tan",
@@ -56,7 +60,8 @@
                 "Swee Lan Teng",
                 "*Mother of the Bride",
                 "*Eunice's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Swee Liew Teng",
@@ -69,39 +74,45 @@
                 "Cassia Glass",
                 "*Mother of the Groom",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Gerald Glass",
                 "*Grandpa",
                 "Grandaddy Glass",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "McLeod Glass",
                 "*Father of the Groom",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Micki Glass",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Kathryn Nunnally",
                 "*Grandma",
                 "Gran Nunnally",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Thomas Nunnally",
                 "*Grandpa",
                 "Doc Nunnally",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ]
         ],
         "3": [
@@ -119,7 +130,8 @@
                 "*Groomsmen",
                 "Groomsman",
                 "*RUF",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Josh Kearney",
@@ -130,12 +142,14 @@
                 "Groomsman",
                 "*RUF",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Hannah Schommer",
                 "*Wedding Guests",
-                "*Names that start with 'H'"
+                "*Names that start with 'H'",
+                "*Wedding Party's Party People"
             ],
             [
                 "Raymond Spell",
@@ -143,7 +157,8 @@
                 "Groomsman",
                 "*Best Man",
                 "*FSM",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Matey Yanakiev",
@@ -157,14 +172,16 @@
             [
                 "Margaret Alpert",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party's Party People"
             ],
             [
                 "Jeremy Alpert",
                 "*Groomsmen",
                 "Groomsman",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Toluwani Fasina",
@@ -172,21 +189,24 @@
                 "Bridesmaid",
                 "*Bridesmaids",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Willa Tao",
                 "Bridesmaid",
                 "*Bridesmaids",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Sarah Wang",
                 "Bridesmaid",
                 "*Bridesmaids",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Robin Whitehead",
@@ -194,7 +214,8 @@
                 "*Bridesmaids",
                 "*RUF",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ]
         ],
         "5": [
@@ -204,21 +225,24 @@
                 "*Bridesmaids",
                 "*RUF",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Julian Braxton",
                 "*Groomsmen",
                 "Groomsman",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Neha Ghanta",
                 "Bridesmaid",
                 "*Bridesmaids",
                 "*Boppell HS Marching Band",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Caroline Glass",
@@ -226,12 +250,14 @@
                 "Bridesmaid",
                 "*Bridesmaids",
                 "*Barret's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Esther Stecher",
                 "*RUF",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party's Party People"
             ],
             [
                 "Evelyn Stecher",
@@ -240,7 +266,9 @@
                 "*Usher",
                 "*Ushers",
                 "*Head Usher",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party",
+                "*Wedding Party's Party People"
             ],
             [
                 "Isaac Stecher",
@@ -249,7 +277,8 @@
                 "*RUF",
                 "*Hooligan",
                 "*Wedding Guests",
-                "Stupid Moose"
+                "Stupid Moose",
+                "*Wedding Party"
             ],
             [
                 "Reuben Stecher",
@@ -257,7 +286,8 @@
                 "Groomsman",
                 "*RUF",
                 "*Hooligan",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Eucharist Tan",
@@ -265,7 +295,8 @@
                 "Bridesmaid",
                 "*Bridesmaids",
                 "*Eunice's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Eusebes Tan",
@@ -273,12 +304,14 @@
                 "*Groomsmen",
                 "Groomsman",
                 "*Eunice's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Lanija Tatum",
                 "Lala Tatum",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party's Party People"
             ],
             [
                 "Samantha Wibawa",
@@ -287,7 +320,8 @@
                 "*Ushers",
                 "*RUF",
                 "*XA",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ]
         ],
         "6": [
@@ -636,7 +670,8 @@
                 "Sam Yuan",
                 "*Ring Bearer",
                 "*Ring Bearer's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ]
         ],
         "10": [
@@ -1065,7 +1100,8 @@
                 "*Usher",
                 "*Ushers",
                 "*RUF",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Kevin Hatley",
@@ -1120,7 +1156,8 @@
             [
                 "Caeli Richard",
                 "*Danger Zone",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "skibidi ohio sigma rizzler"
             ]
         ],
         "16": [
@@ -1195,7 +1232,8 @@
                 "*RUF",
                 "*Flower Girl",
                 "*Flower Girl's Family",
-                "*Wedding Guests"
+                "*Wedding Guests",
+                "*Wedding Party"
             ],
             [
                 "Eden Shields",

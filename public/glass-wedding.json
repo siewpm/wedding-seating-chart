@@ -22,10 +22,11 @@
         "1": [
             "Jessica Ngo",
             [
-            "Kak Tee Loo",
-            "Grandma Tan",
-            "Ahma Tan",
-            "*Grandma"
+                "Kak Tee Loo",
+                "Grandma Tan",
+                "Ahma Tan",
+                "Ama Tan",
+                "*Grandma"
             ],
             "Keh Shiun Tan",
             "Keh Yeong Tan",
@@ -34,24 +35,30 @@
         ],
         "2": [
             "Cassia Glass",
-            "Gerald Glass",
+            [
+                "Gerald Glass",
+                "*Grandpa",
+                "Grandaddy Glass"
+            ],
             "McLeod Glass",
             "Micki Glass",
             [
                 "Kathryn Nunnally",
                 "*Grandma",
-                "*Gran",
                 "Gran Nunnally"
             ],
             [
-            "Thomas Nunnally",
-            "*Grandpa",
-            "*Doc"
+                "Thomas Nunnally",
+                "*Grandpa",
+                "Doc Nunnally"
             ]
         ],
         "3": [
             "Ezra Bailey",
-            "Samuel Barton",
+            [
+                "Samuel Barton",
+                "Sam Barton"
+            ],
             "Josh Kearney",
             "Hannah Schommer",
             "Raymond Spell",
@@ -201,7 +208,10 @@
         "12": [
             "Ming Hui Chen",
             "John Chiang",
-            "Mrs. Chiang",
+            [
+                "Mrs. Chiang",
+                "John Chiang"
+            ],
             "Russel Cowdrey",
             "Emily Feng",
             "Diana Gutierrez",

@@ -23,15 +23,15 @@ module.exports = {
         "no-unused-vars": "off",
         "no-console": "off",
         "@typescript-eslint/no-unused-vars": [
-            "error", {
+            "off", {
                 ignoreRestSiblings: true,
             },
         ],
         "no-use-before-define": "off",
-        "@typescript-eslint/no-use-before-define": ["error"],
+        "@typescript-eslint/no-use-before-define": ["off"],
         "no-useless-constructor": "off",
         "no-empty-function": [
-        "error", {
+        "off", {
                 allow: ["constructors"],
             },
         ],

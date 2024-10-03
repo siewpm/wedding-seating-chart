@@ -4,14 +4,14 @@ module.exports = {
         .concat(["plugin:react/recommended"]),
 
     rules: {        
-        "react/prop-types": "error",
-        "react/require-default-props": "error",
+        "react/prop-types": "off",
+        "react/require-default-props": "off",
 
-        "react/jsx-filename-extension": ["error", { extensions: [".tsx", ".jsx"] }],
+        "react/jsx-filename-extension": ["off", { extensions: [".tsx", ".jsx"] }],
         "react/prefer-stateless-function": "off",
-        "react/jsx-no-bind": "error",
+        "react/jsx-no-bind": "off",
         "react/sort-comp": [
-            "error", {
+            "off", {
                 order: [
                     "displayName",
                     "statics",

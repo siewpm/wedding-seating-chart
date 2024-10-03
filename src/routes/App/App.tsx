@@ -69,7 +69,7 @@ function App(): JSX.Element {
           <SeatingChartProvider data={data?.seatingChart}>
             <BrowserRouter>
               <Routes>
-                <Route path="/" element={<NameSearch />} />
+                <Route path="/wedding-seating-chart" element={<NameSearch />} />
                 {/* <Route path="/chart" element={<SeatingChart />} /> */}
               </Routes>
             </BrowserRouter>

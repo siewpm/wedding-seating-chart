@@ -103,6 +103,11 @@ function NameSearch() {
 
       </form>
       <hr />
+      <img
+      src={`${process.env.PUBLIC_URL}/venue.jpg`}
+      alt="Venue"
+      style={{ width: '100%', maxWidth: '600px', margin: '2rem auto', display: 'block', borderRadius: '12px' }}
+      />
       {state.initial ? undefined : (
         <div className="results">
           {(() => {

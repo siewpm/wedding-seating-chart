@@ -81,6 +81,17 @@ function NameSearch() {
         className="flex col xs-x-center xs-y-margin-between-4"
         onSubmit={(event) => onSubmit(event, hooks, service)}
       >
+        <img
+          src={`${process.env.PUBLIC_URL}/venue.jpg`}
+          alt="Venue"
+          style={{
+            width: '100%',
+            maxWidth: '600px',
+            margin: '0 0 1.5rem 0',
+            display: 'block',
+            borderRadius: '12px',
+          }}
+        />
         <p className="is-size-5 is-color-secondary">Enter your name to get your table number!</p>
         <input
           className="name-input
@@ -103,17 +114,6 @@ function NameSearch() {
 
       </form>
       <hr />
-      <img
-        src={`${process.env.PUBLIC_URL}/venue.jpg`}
-        alt="Venue"
-        style={{
-          width: '100%',
-          maxWidth: '600px',
-          margin: '2rem auto',
-          display: 'block',
-          borderRadius: '12px',
-        }}
-      />
       {state.initial ? undefined : (
         <div className="results">
           {(() => {

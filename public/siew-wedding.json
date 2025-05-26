@@ -1,611 +1,185 @@
 {
-    "lastName": "",
-    "bride": "Peng Mun",
-    "groom": "Yi Hui",
-    "date": "6/1/2025",
-    "time": "11:00 am",
-    "location": "Kuala Lumpur, MY",
-    "seatingChart": {
-        "1": [
-            [
-                "Håkon T. Nygård",
-                "Haakon T. Nygård",
-                "Nygård Håkon T.",
-                "Håkon Nygård",
-                "Nygård Håkon"
-            ],
-            [
-                "Leon Li",
-                "Li Leon"
-            ],
-            [
-                "Petter Rikheim Benonisen",
-                "Benonisen Petter Rikheim",
-                "Petter Benonisen",
-                "Benonisen Petter"
-            ],
-            [
-                "Vilja Steffensen",
-                "Steffensen Vilja"
-            ],
-            [
-                "Farid Aligolzadeh",
-                "Aligolzadeh Farid"
-            ],
-            [
-                "Amélie Ferran",
-                "Amelie Ferran",
-                "Ferran Amélie"
-            ],
-            [
-                "Bryce Doerr",
-                "Doerr Bryce"
-            ],
-            [
-                "Youssef Elashmawi",
-                "Elashmawi Youssef"
-            ],
-            [
-                "Yanchong Duan",
-                "Duan Yanchong"
-            ]
-        ],
-        "10": [
-            [
-                "Mei Ling Lai",
-                "Lai Mei Ling"
-            ],
-            [
-                "Jie Yinn Chan",
-                "Chan Jie Yinn"
-            ],
-            [
-                "Jun Yon Ler",
-                "Ler Jun Yon"
-            ],
-            [
-                "Kim Hean Tee",
-                "Tee Kim Hean"
-            ],
-            [
-                "Chai Li See",
-                "See Chai Li"
-            ],
-            [
-                "Keith Tee",
-                "Tee Keith"
-            ],
-            [
-                "Nicole Wong",
-                "Wong Nicole",
-                "Wong Ooi Qun",
-                "Ooi Qun Wong"
-            ],
-            [
-                "Kuan Theng Ong",
-                "Ong Kuan Theng"
-            ],
-            [
-                "Ashley Ong",
-                "Ong Ashley"
-            ]
-        ],
-        "11": [
-            [
-                "Han Ying Ng",
-                "Ng Han Ying"
-            ],
-            [
-                "Zhi Yao Ang",
-                "Ang Zhi Yao"
-            ],
-            [
-                "Sau Hong Goh",
-                "Goh Sau Hong"
-            ],
-            [
-                "Eunice Chuah",
-                "Chuah Eunice"
-            ],
-            [
-                "Yun Xuan Lee",
-                "Lee Yun Xuan"
-            ],
-            [
-                "Lii Shyan Teo",
-                "Teo Lii Shyan"
-            ],
-            [
-                "Jia Ying Chua",
-                "Chua Jia Ying"
-            ],
-            [
-                "Han Sian Woo",
-                "Woo Han Sian"
-            ],
-            [
-                "Chia Xin Lim",
-                "Lim Chia Xin"
-            ],
-            [
-                "Cy Yeo",
-                "Yeo Cy"
-            ],
-            [
-                "Xi Xi Yeo",
-                "Yeo Xi Xi"
-            ]
-        ],
-        "12": [
-            [
-                "Vivian New",
-                "New Vivian"
-            ],
-            [
-                "Yuek Che Low",
-                "Low Yuek Che"
-            ],
-            [
-                "Sah Pooi Sie",
-                "Pooi Sie Sah"
-            ],
-            [
-                "Foo Yen Wong",
-                "Wong Foo Yen"
-            ],
-            [
-                "Pei Ying Wong",
-                "Wong Pei Ying"
-            ],
-            [
-                "Wai Hoong Chan",
-                "Chan Wai Hoong"
-            ],
-            [
-                "Yin Ting Lee",
-                "Lee Yin Ting",
-                "Diana Lee"
-            ],
-            [
-                "Daniel",
-                "Daniel"
-            ],
-            [
-                "Jessyl See",
-                "See Jessyl"
-            ],
-            [
-                "Michelle Yoong",
-                "Yoong Michelle"
-            ]
-        ],
-        "13": [
-            [
-                "Esther Wong",
-                "Wong Esther"
-            ],
-            [
-                "Johnny Thoong",
-                "Thoong Johnny"
-            ],
-            [
-                "Calvin Thoong",
-                "Thoong Calvin"
-            ],
-            [
-                "Elaine",
-                "Elaine"
-            ],
-            [
-                "Rachel Thoong",
-                "Thoong Rachel"
-            ],
-            [
-                "Sean Thoong",
-                "Thoong Sean"
-            ],
-            [
-                "Brenda Thoong",
-                "Thoong Brenda"
-            ],
-            [
-                "Alex",
-                "Alex"
-            ],
-            [
-                "Kingston",
-                "Kingston"
-            ],
-            [
-                "Mei Mei",
-                "Mei Mei"
-            ]
-        ],
-        "14": [
-            [
-                "Ted Wong",
-                "Wong Ted"
-            ],
-            [
-                "Reny Wong",
-                "Wong Reny"
-            ],
-            [
-                "Lucas Wong",
-                "Wong Lucas"
-            ],
-            [
-                "Tyra Wong",
-                "Wong Tyra"
-            ],
-            [
-                "Anthony Wong",
-                "Wong Anthony"
-            ],
-            [
-                "Wai Leng Lim",
-                "Lim Wai Leng"
-            ],
-            [
-                "Weng Kit Wong",
-                "Wong Weng Kit",
-                "Bryan Wong",
-                "Wong Bryan"
-
-            ],
-            [
-                "Mary Chen",
-                "Chen Mary"
-            ],
-            [
-                "Roy Chen",
-                "Chen Roy"
-            ],
-            [
-                "William Chen",
-                "Chen William"
-            ]
-        ],
-        "2": [
-            [
-                "June Poh",
-                "Poh June"
-            ],
-            [
-                "Nancy Fan",
-                "Fan Nancy"
-            ],
-            [
-                "Wei Quan Poh",
-                "Poh Wei Quan"
-            ],
-            [
-                "Steven Lim",
-                "Lim Steven"
-            ],
-            [
-                "Samson Poh",
-                "Poh Samson"
-            ],
-            [
-                "Jayden Lim",
-                "Lim Jayden"
-            ],
-            [
-                "Shermes Lim",
-                "Lim Shermes"
-            ],
-            [
-                "Senn Nee Poh",
-                "Poh Senn Nee",
-                "Sandi Poh",
-                "Poh Sandi"
-            ],
-            [
-                "Savannah Low",
-                "Low Savannah"
-            ],
-            [
-                "Alexander Low",
-                "Low Alexander"
-            ],
-            [
-                "Elizabeth Low",
-                "Low Elizabeth"
-            ]
-        ],
-        "3": [
-            [
-                "Paik Xuan Poh",
-                "Poh Paik Xuan"
-            ],
-            [
-                "Melissa Ooi",
-                "Ooi Melissa"
-            ],
-            [
-                "Joanne Ooi",
-                "Ooi Joanne"
-            ],
-            [
-                "Moritz",
-                "Moritz"
-            ],
-            [
-                "Felix",
-                "Felix"
-            ],
-            [
-                "Quan Xiong Ng",
-                "Ng Quan Xiong"
-            ],
-            [
-                "Suet Ying Ng",
-                "Ng Suet Ying"
-            ],
-            [
-                "Daryl See",
-                "See Daryl"
-            ],
-            [
-                "Jonathan Poh's Guest",
-                "Poh Shyang Joo",
-                "Shyang Joo Poh",
-                "Poh Jonathan"
-            ],
-            [
-                "Jonathan Poh",
-                "Poh Shyang Joo", 
-                "Shyang Joo Poh",
-                "Poh Jonathan"
-            ]
-        ],
-        "5": [
-            [
-                "Shun Yi Sia",
-                "Sia Shun Yi"
-            ],
-            [
-                "Ivy Teng",
-                "Teng Ivy"
-            ],
-            [
-                "Shu Fang Yu",
-                "Yu Shu Fang",
-                "Seok Hong Lee",
-                "Lee Seok Hong"
-            ],
-            [
-                "Xi Jian Yu",
-                "Yu Xi Jian"
-            ],
-            [
-                "Swee Chu Tee",
-                "Tee Swee Chu"
-            ],
-            [
-                "Geok Bee Tee",
-                "Tee Geok Bee"
-            ],
-            [
-                "Beng Suee Sia",
-                "Sia Beng Suee"
-            ],
-            [
-                "Song Yu Sia",
-                "Sia Song Yu"
-            ],
-            [
-                "Hui Teng Ee",
-                "Ee Hui Teng"
-            ],
-            [
-                "Seok Hwai Lee",
-                "Shu Huai Lee",
-                "Lee Seok Hwai",
-                "Lee Shu Huai"
-            ],
-            [
-                "Boon Huat Tay",
-                "Tay Boon Huat"
-            ]
-        ],
-        "6": [
-            [
-                "Eng Hong Poh",
-                "Poh Eng Hong"
-            ],
-            [
-                "Linda Huam",
-                "Huam Linda"
-            ],
-            [
-                "Sau Kuen Chow",
-                "Chow Sau Kuen"
-            ],
-            [
-                "Sau Kuen Chow's Guest",
-                "Sau Kuen Chow",
-                "Chow Sau Kuen"
-            ],
-            [
-                "Eng Hoe Poh",
-                "Poh Eng Hoe"
-            ],
-            [
-                "Poh Kam Yan",
-                "Yan Poh Kam"
-            ],
-            [
-                "Ee Hiong Poh",
-                "Poh Ee Hiong",
-                "Pat Ooi",
-                "Ooi Pat"
-            ],
-            [
-                "Kok Choon Ooi",
-                "Ooi Kok Choon",
-                "Ooi Raymond",
-                "Raymond Ooi"
-            ],
-            [
-                "Yee Hon Poh",
-                "Poh Yee Hon",
-                "Evonne Poh",
-                "Poh Evonne"
-                
-            ],
-            [
-                "Kok Chong Ng",
-                "Ng Kok Chong",
-                "Ng Casey",
-                "Casey Ng"
-
-            ]
-        ],
-        "7": [
-            [
-                "Gino Poh",
-                "Poh Gino"
-            ],
-            [
-                "Jolyne H",
-                "H Jolyne"
-            ],
-            [
-                "Sonia Poh",
-                "Poh Sonia"
-            ],
-            [
-                "Eng An Poh",
-                "Poh Eng An",
-                "Mike Poh",
-                "Poh Mike"
-            ],
-            [
-                "Shiok Cheng Tan",
-                "Tan Shiok Cheng"
-            ],
-            [
-                "Soon Oon Poh",
-                "Poh Soon Oon"
-            ],
-            [
-                "Soo Lei Teo",
-                "Teo Soo Lei"
-            ],
-            [
-                "Zhi Yuan Poh",
-                "Poh Zhi Yuan"
-            ],
-            [
-                "Zhi Le Poh",
-                "Poh Zhi Le"
-            ],
-            [
-                "Ee Wan Poh",
-                "Poh Ee Wan",
-                "Poh Ben",
-                "Ben Poh"
-
-            ],
-            [
-                "Chin Heng Lin",
-                "Lin Chin Heng"
-            ]
-        ],
-        "8": [
-            [
-                "Seng Tzer Looi",
-                "Looi Seng Tzer"
-            ],
-            [
-                "Min Si Yu",
-                "Yu Min Si"
-            ],
-            [
-                "Joel Teo",
-                "Teo Joel"
-            ],
-            [
-                "Shen Xi Tey",
-                "Tey Shen Xi"
-            ],
-            [
-                "Yuan Chen Seet",
-                "Seet Yuan Chen"
-            ],
-            [
-                "Seng Rou Tey",
-                "Tey Seng Rou"
-            ],
-            [
-                "Pheng Chuen Tan",
-                "Tan Pheng Chuen"
-            ],
-            [
-                "Li Min Lim",
-                "Lim Li Min"
-            ],
-            [
-                "Yen Ting Ng",
-                "Ng Yen Ting"
-            ],
-            [
-                "Hin Sheik Wee",
-                "Wee Hin Sheik",
-                "Hippy"
-            ],
-            [
-                "Yan Duan Ng",
-                "Ng Yan Duan"
-            ]
-        ],
-        "9": [
-            [
-                "Shung Churn Siow",
-                "Siow Shung Churn"
-            ],
-            [
-                "Ann",
-                "Ann"
-            ],
-            [
-                "Kah Wee Lim",
-                "Lim Kah Wee"
-            ],
-            [
-                "Ivy She",
-                "She Ivy"
-            ],
-            [
-                "Avery Lim",
-                "Lim Avery"
-            ],
-            [
-                "Kiu Leong Tan",
-                "Tan Kiu Leong"
-            ],
-            [
-                "Hui Yin Wong",
-                "Wong Hui Yin"
-            ],
-            [
-                "Louie Tan",
-                "Tan Louie"
-            ],
-            [
-                "Nyet Kian Shim",
-                "Shim Nyet Kian"
-            ],
-            [
-                "Pauline Choo",
-                "Choo Pauline"
-            ],
-            [
-                "Jacqueline Choo",
-                "Choo Jacqueline"
-            ]
-        ]
-    }
+  "lastName": "",
+  "bride": "Peng Mun",
+  "groom": "Yi Hui",
+  "date": "6/1/2025",
+  "time": "11:00 am",
+  "location": "Kuala Lumpur, MY",
+  "seatingChart": {
+    "1": [
+      [
+        "Håkon T. Nygård",
+        "Haakon T. Nygård",
+        "Nygård Håkon T.",
+        "Håkon Nygård",
+        "Nygård Håkon"
+      ],
+      ["Leon Li", "Li Leon"],
+      [
+        "Petter Rikheim Benonisen",
+        "Benonisen Petter Rikheim",
+        "Petter Benonisen",
+        "Benonisen Petter"
+      ],
+      ["Vilja Steffensen", "Steffensen Vilja"],
+      ["Farid Aligolzadeh", "Aligolzadeh Farid"],
+      ["Amélie Ferran", "Amelie Ferran", "Ferran Amélie"],
+      ["Bryce Doerr", "Doerr Bryce"],
+      ["Youssef Elashmawi", "Elashmawi Youssef"],
+      ["Yin Ting Lee", "Lee Yin Ting", "Diana Lee"],
+      ["Daniel", "Daniel"]
+    ],
+    "11": [
+      ["Mei Ling Lai", "Lai Mei Ling"],
+      ["Jie Yinn Chan", "Chan Jie Yinn"],
+      ["Jun Yon Ler", "Ler Jun Yon"],
+      ["Man Ze Chan", "Chan Man Ze"],
+      ["Nicole Wong", "Wong Nicole", "Wong Ooi Qun", "Ooi Qun Wong"],
+      ["Kuan Theng Ong", "Ong Kuan Theng"],
+      ["Pheng Chuen Tan", "Tan Pheng Chuen"],
+      ["Shen Xi Tey", "Tey Shen Xi"],
+      ["Seng Tzer Looi", "Looi Seng Tzer"],
+      ["Hin Sheik Wee", "Wee Hin Sheik", "Hippy"]
+    ],
+    "12": [
+      ["Vivian New", "New Vivian"],
+      ["Yuek Che Low", "Low Yuek Che"],
+      ["Sah Pooi Sie", "Pooi Sie Sah"],
+      ["Foo Yen Wong", "Wong Foo Yen"],
+      ["Pei Ying Wong", "Wong Pei Ying"],
+      ["Wai Hoong Chan", "Chan Wai Hoong"],
+      ["Jessyl See", "See Jessyl"],
+      ["Michelle Yoong", "Yoong Michelle"]
+    ],
+    "13": [
+      ["Esther Wong", "Wong Esther"],
+      ["Johnny Thoong", "Thoong Johnny"],
+      ["Calvin Thoong", "Thoong Calvin"],
+      ["Elaine", "Elaine"],
+      ["Rachel Thoong", "Thoong Rachel"],
+      ["Sean Thoong", "Thoong Sean"],
+      ["Brenda Thoong", "Thoong Brenda"],
+      ["Alex", "Alex"],
+      ["Kingston", "Kingston"],
+      ["Mei Mei", "Mei Mei"]
+    ],
+    "14": [
+      ["Ted Wong", "Wong Ted"],
+      ["Reny Wong", "Wong Reny"],
+      ["Lucas Wong", "Wong Lucas"],
+      ["Tyra Wong", "Wong Tyra"],
+      ["Anthony Wong", "Wong Anthony"],
+      ["Wai Leng Lim", "Lim Wai Leng"],
+      ["Weng Kit Wong", "Wong Weng Kit", "Bryan Wong", "Wong Bryan"],
+      ["Mary Chen", "Chen Mary"],
+      ["Roy Chen", "Chen Roy"],
+      ["William Chen", "Chen William"]
+    ],
+    "2": [
+      ["June Poh", "Poh June"],
+      ["Nancy Fan", "Fan Nancy"],
+      ["Wei Quan Poh", "Poh Wei Quan"],
+      ["Steven Lim", "Lim Steven"],
+      ["Samson Poh", "Poh Samson"],
+      ["Jayden Lim", "Lim Jayden"],
+      ["Shermes Lim", "Lim Shermes"],
+      ["Senn Nee Poh", "Poh Senn Nee", "Sandi Poh", "Poh Sandi"],
+      ["Savannah Low", "Low Savannah"],
+      ["Alexander Low", "Low Alexander"],
+      ["Elizabeth Low", "Low Elizabeth"]
+    ],
+    "3": [
+      ["Paik Xuan Poh", "Poh Paik Xuan"],
+      ["Melissa Ooi", "Ooi Melissa"],
+      ["Joanne Ooi", "Ooi Joanne"],
+      ["Moritz", "Moritz"],
+      ["Felix", "Felix"],
+      ["Quan Xiong Ng", "Ng Quan Xiong"],
+      ["Suet Ying Ng", "Ng Suet Ying"],
+      ["Daryl See", "See Daryl"],
+      [
+        "Jonathan Poh's Guest",
+        "Poh Shyang Joo",
+        "Shyang Joo Poh",
+        "Poh Jonathan"
+      ],
+      ["Jonathan Poh", "Poh Shyang Joo", "Shyang Joo Poh", "Poh Jonathan"]
+    ],
+    "5": [
+      ["Eng Hong Poh", "Poh Eng Hong"],
+      ["Linda Huam", "Huam Linda"],
+      ["Sau Kuen Chow", "Chow Sau Kuen"],
+      ["Sau Kuen Chow's Guest", "Sau Kuen Chow", "Chow Sau Kuen"],
+      ["Eng Hoe Poh", "Poh Eng Hoe"],
+      ["Poh Kam Yan", "Yan Poh Kam"],
+      ["Ee Hiong Poh", "Poh Ee Hiong", "Pat Ooi", "Ooi Pat"],
+      ["Kok Choon Ooi", "Ooi Kok Choon", "Ooi Raymond", "Raymond Ooi"],
+      ["Yee Hon Poh", "Poh Yee Hon", "Evonne Poh", "Poh Evonne"],
+      ["Kok Chong Ng", "Ng Kok Chong", "Ng Casey", "Casey Ng"]
+    ],
+    "6": [
+      ["Gino Poh", "Poh Gino"],
+      ["Jolyne H", "H Jolyne"],
+      ["Sonia Poh", "Poh Sonia"],
+      ["Eng An Poh", "Poh Eng An", "Mike Poh", "Poh Mike"],
+      ["Shiok Cheng Tan", "Tan Shiok Cheng"],
+      ["Soon Oon Poh", "Poh Soon Oon"],
+      ["Soo Lei Teo", "Teo Soo Lei"],
+      ["Zhi Yuan Poh", "Poh Zhi Yuan"],
+      ["Zhi Le Poh", "Poh Zhi Le"],
+      ["Ee Wan Poh", "Poh Ee Wan", "Poh Ben", "Ben Poh"],
+      ["Chin Heng Lin", "Lin Chin Heng"]
+    ],
+    "7": [
+      ["Shun Yi Sia", "Sia Shun Yi"],
+      ["Ivy Teng", "Teng Ivy"],
+      ["Shu Fang Yu", "Yu Shu Fang", "Seok Hong Lee", "Lee Seok Hong"],
+      ["Xi Jian Yu", "Yu Xi Jian"],
+      ["Swee Chu Tee", "Tee Swee Chu"],
+      ["Geok Bee Tee", "Tee Geok Bee"],
+      ["Beng Suee Sia", "Sia Beng Suee"],
+      ["Song Yu Sia", "Sia Song Yu"],
+      ["Hui Teng Ee", "Ee Hui Teng"],
+      ["Seok Hwai Lee", "Shu Huai Lee", "Lee Seok Hwai", "Lee Shu Huai"],
+      ["Boon Huat Tay", "Tay Boon Huat"]
+    ],
+    "8": [
+      ["Min Si Yu", "Yu Min Si"],
+      ["Joel Teo", "Teo Joel"],
+      ["Yuan Chen Seet", "Seet Yuan Chen"],
+      ["Seng Rou Tey", "Tey Seng Rou"],
+      ["Li Min Lim", "Lim Li Min"],
+      ["Yen Ting Ng", "Ng Yen Ting"],
+      ["Yan Duan Ng", "Ng Yan Duan"],
+      ["Sau Hong Goh", "Goh Sau Hong"],
+      ["Eunice Chuah", "Chuah Eunice"],
+      ["Zhi Yao Ang", "Ang Zhi Yao"]
+    ],
+    "9": [
+      ["Kim Hean Tee", "Tee Kim Hean"],
+      ["Chai Li See", "See Chai Li"],
+      ["Keith Tee", "Tee Keith"],
+      ["Chia Xin Lim", "Lim Chia Xin"],
+      ["Cy Yeo", "Yeo Cy"],
+      ["Xi Xi Yeo", "Yeo Xi Xi"],
+      ["Han Ying Ng", "Ng Han Ying"],
+      ["Jia Ying Chua", "Chua Jia Ying"],
+      ["Han Sian Woo", "Woo Han Sian"],
+      ["Yun Xuan Lee", "Lee Yun Xuan"],
+      ["Lii Shyan Teo", "Teo Lii Shyan"]
+    ],
+    "10": [
+      ["Shung Churn Siow", "Siow Shung Churn"],
+      ["Ann", "Ann"],
+      ["Kah Wee Lim", "Lim Kah Wee"],
+      ["Ivy She", "She Ivy"],
+      ["Avery Lim", "Lim Avery"],
+      ["Kiu Leong Tan", "Tan Kiu Leong"],
+      ["Hui Yin Wong", "Wong Hui Yin"],
+      ["Louie Tan", "Tan Louie"],
+      ["Nyet Kian Shim", "Shim Nyet Kian"],
+      ["Pauline Choo", "Choo Pauline"],
+      ["Jacqueline Choo", "Choo Jacqueline"]
+    ]
+  }
 }

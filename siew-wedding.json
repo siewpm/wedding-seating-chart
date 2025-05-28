@@ -39,7 +39,8 @@
       ["Pheng Chuen Tan", "Tan Pheng Chuen"],
       ["Shen Xi Tey", "Tey Shen Xi"],
       ["Seng Tzer Looi", "Looi Seng Tzer"],
-      ["Hin Sheik Wee", "Wee Hin Sheik", "Hippy"]
+      ["Hin Sheik Wee", "Wee Hin Sheik", "Hippy"],
+      ["Tan Yann Fang", "Yann Fang Tan"]
     ],
     "12": [
       ["Vivian New", "New Vivian"],
@@ -108,8 +109,8 @@
     "5": [
       ["Eng Hong Poh", "Poh Eng Hong"],
       ["Linda Huam", "Huam Linda"],
-      ["Sau Kuen Chow", "Chow Sau Kuen"],
-      ["Sau Kuen Chow's Guest", "Sau Kuen Chow", "Chow Sau Kuen"],
+      ["Ee Wan Poh", "Poh Ee Wan", "Poh Ben", "Ben Poh"],
+      ["Chin Heng Lin", "Lin Chin Heng"],
       ["Eng Hoe Poh", "Poh Eng Hoe"],
       ["Poh Kam Yan", "Yan Poh Kam"],
       ["Ee Hiong Poh", "Poh Ee Hiong", "Pat Ooi", "Ooi Pat"],
@@ -127,8 +128,8 @@
       ["Soo Lei Teo", "Teo Soo Lei"],
       ["Zhi Yuan Poh", "Poh Zhi Yuan"],
       ["Zhi Le Poh", "Poh Zhi Le"],
-      ["Ee Wan Poh", "Poh Ee Wan", "Poh Ben", "Ben Poh"],
-      ["Chin Heng Lin", "Lin Chin Heng"]
+      ["Sau Kuen Chow", "Chow Sau Kuen"],
+      ["Sau Kuen Chow's Guest", "Sau Kuen Chow", "Chow Sau Kuen"]
     ],
     "7": [
       ["Shun Yi Sia", "Sia Shun Yi"],

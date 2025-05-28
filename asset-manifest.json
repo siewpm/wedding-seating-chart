@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wedding-seating-chart/static/css/main.3f32bcc1.css",
-    "main.js": "/wedding-seating-chart/static/js/main.deb8cbbe.js",
+    "main.js": "/wedding-seating-chart/static/js/main.1da29d6f.js",
     "index.html": "/wedding-seating-chart/index.html",
     "main.3f32bcc1.css.map": "/wedding-seating-chart/static/css/main.3f32bcc1.css.map",
-    "main.deb8cbbe.js.map": "/wedding-seating-chart/static/js/main.deb8cbbe.js.map"
+    "main.1da29d6f.js.map": "/wedding-seating-chart/static/js/main.1da29d6f.js.map"
   },
   "entrypoints": [
     "static/css/main.3f32bcc1.css",
-    "static/js/main.deb8cbbe.js"
+    "static/js/main.1da29d6f.js"
   ]
 }

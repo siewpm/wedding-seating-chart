@@ -81,7 +81,7 @@ function NameSearch() {
         className="flex col xs-x-center xs-y-margin-between-4"
         onSubmit={(event) => onSubmit(event, hooks, service)}
       >
-        <p className="is-size-5 is-color-secondary">Enter your name to get your table number!</p>
+        <p className="is-size-5 is-color-secondary">Enter your name to get your table number! Scroll down to see more.</p>
         <input
           className="name-input
           is-size-4
@@ -93,17 +93,6 @@ function NameSearch() {
           placeholder="Name"
         />
         <button type="submit" className="name-submit is-size-5 xs-x-self-center">Search</button>
-        <img
-          src={`${process.env.PUBLIC_URL}/venue.jpg`}
-          alt="Venue"
-          style={{
-            width: '100%',
-            maxWidth: '600px',
-            margin: '0 0 1.5rem 0',
-            display: 'block',
-            borderRadius: '12px',
-          }}
-        />
         {/* <button
           type="button"
           className="random is-size-8"
@@ -136,6 +125,17 @@ function NameSearch() {
 
         </div>
       )}
+      <img
+        src={`${process.env.PUBLIC_URL}/venue.jpg`}
+        alt="Venue"
+        style={{
+          width: '100%',
+          maxWidth: '600px',
+          margin: '1rem auto 1.5rem auto',
+          display: 'block',
+          borderRadius: '12px',
+        }}
+      />
     </div>
   );
 }

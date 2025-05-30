@@ -111,8 +111,6 @@
       ["Linda Huam", "Huam Linda"],
       ["Ee Wan Poh", "Poh Ee Wan", "Poh Ben", "Ben Poh"],
       ["Chin Heng Lin", "Lin Chin Heng"],
-      ["Eng Hoe Poh", "Poh Eng Hoe"],
-      ["Poh Kam Yan", "Yan Poh Kam"],
       ["Ee Hiong Poh", "Poh Ee Hiong", "Pat Ooi", "Ooi Pat"],
       ["Kok Choon Ooi", "Ooi Kok Choon", "Ooi Raymond", "Raymond Ooi"],
       ["Yee Hon Poh", "Poh Yee Hon", "Evonne Poh", "Poh Evonne"],
@@ -129,7 +127,9 @@
       ["Zhi Yuan Poh", "Poh Zhi Yuan"],
       ["Zhi Le Poh", "Poh Zhi Le"],
       ["Sau Kuen Chow", "Chow Sau Kuen"],
-      ["Sau Kuen Chow's Guest", "Sau Kuen Chow", "Chow Sau Kuen"]
+      ["Sau Kuen Chow's Guest", "Sau Kuen Chow", "Chow Sau Kuen"],
+      ["Eng Hoe Poh", "Poh Eng Hoe"],
+      ["Poh Kam Yan", "Yan Poh Kam"]
     ],
     "7": [
       ["Shun Yi Sia", "Sia Shun Yi"],
